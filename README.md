@@ -55,14 +55,15 @@ Id | Nome | Idades
 03|Carlos| 15
 
 ## Texto com tabulação
-'''
+
+```
 #include<stdio.h>
 
 int main(void){
     printf("Hello World!");
     return 0;
 }
-'''
+```
 
 
 
